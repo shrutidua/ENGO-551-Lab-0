@@ -1,0 +1,80 @@
+body
+{
+  background-color: #fbe5eb;"
+
+
+}
+h1
+/* Inheritance using SCSS*/
+$Childhood-background-color:  #fefadc ;
+
+{
+  text-align: center;
+  padding: 10px;
+  color: purple;
+  font-style: normal;
+  font: helvetica;
+  font-family: serif;
+}
+.indexdescription
+{
+  background-color: #f6c6e0;
+  padding: 10px
+}
+
+.btn-group
+{
+cursor: pointer;
+
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+
+}
+
+.btn-Index
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+  background-color:#fbe5eb;
+
+}
+.btn-Childhood
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+  background-color:  #fefadc;
+}
+
+
+.btn-TVShows
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+background-color: #ffba9e;
+
+}
+
+.btn-Cities
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+background-color: #deffbd;
+
+}
+
+
+.btn-Albums
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+  background-color: #dce1e5
+
+}

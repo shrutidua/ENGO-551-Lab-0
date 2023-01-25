@@ -1,0 +1,78 @@
+body
+{
+  background-color: #bcb5d9
+}
+
+.container
+{
+font-size: 25px;
+margin: 0 auto;
+font-weight: bold;
+text-align: center;
+}
+
+p
+{
+  font-size: 20px;
+}
+h1
+{    text-align: center;
+}
+
+
+.btn-group
+{
+cursor: pointer;
+
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+
+}
+
+.btn-Index
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+  background-color:#fbe5eb;
+
+}
+.btn-Childhood
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+  background-color: #fefadc;
+}
+
+
+.btn-TVShows
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+background-color: #ffba9e;
+
+}
+
+.btn-Cities
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+background-color: #deffbd
+
+}
+
+
+.btn-Albums
+{
+  border: 3px solid black;
+  padding: 15px 32px;
+  font-size: 16px;
+  background-color: #dce1e5
+
+}
